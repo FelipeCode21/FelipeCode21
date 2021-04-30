@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeCode21
 - 👀 I’m interested in codify
-- 🌱 I’m currently learning program
+- 🌱 I’m currently learning program Java
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me felipe_felipe9@hotmail.com
 
